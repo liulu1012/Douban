@@ -10,4 +10,19 @@
       <image src='/images/iqiyi.png'></image>
     </swiper-item>
   </swiper>
+  <view class='post-container'>
+    <view class='post-author-date'>
+      <image src='/images/avatar/1.png' class='post-author'></image>
+      <text class='post-date'>Nov 25 2016</text>
+    </view>
+    <text class='post-title'>正是虾肥蟹壮时</text>
+    <image src='/images/post/crab.png' class='post-image'></image>
+    <text class='post-content'>11122233344455566667775454545425424548578765454231346545456454524542424242402446546576875425424324546546542425465465</text>
+    <view class='post-like'>
+      <image src='/images/icon/chat.png' class='post-like-image'></image>
+      <text class='post-like-font'>92</text>
+      <image src='/images/icon/view.png' class='post-like-image'></image>
+      <text class='post-like-font'>108</text>
+    </view>
+  </view>
 </view>

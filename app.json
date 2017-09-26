@@ -4,6 +4,6 @@
     "pages/welcome/welcome"
   ],
   "window":{
-    "navigationBarBackgroundColor": "#405f80"
+    "navigationBarBackgroundColor": "#b3d4db"
   }
 }
